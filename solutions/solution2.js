@@ -25,7 +25,7 @@ var sum = function(max) {
 
 // Find the maximum of cards within the given budgeted time.
 for (var card = 1; card < 30; ++card) {
-  if ( sum(card) >= budget ) {
+  if ( sum(card) > budget ) {
     // minus 1 because the sum must be less than the budget
     // add 1 because the index in the `sum` function begins at 0.
     console.log(card - 1 + 1);
