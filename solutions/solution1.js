@@ -1,3 +1,9 @@
+ 
+/**
+ *  Author: yuanchuan
+ *  Email:  yuanchuan23@gmail.com
+ */
+
 
 var fs = require('fs');
 var input = fs.readFileSync('./input/problem1input.txt', 'utf-8');
