@@ -2,6 +2,12 @@
 /**
  *  Author: yuanchuan
  *  Email:  yuanchuan23@gmail.com
+ *
+ *  How to run:
+ *
+ *    1. node solution1.js  > result.html
+ *    2. open result.html in the browser
+ * 
  */
 
 
